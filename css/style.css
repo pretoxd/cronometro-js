@@ -1,0 +1,31 @@
+div{
+    text-align: center;
+}
+
+button{
+    height: 2.5em;
+    width: 6em;
+    border-radius: 1em;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.start-btn{
+    background-color: #0d8060;
+}
+
+.pause-btn{
+    background-color: #FFE866;
+}
+
+.stop-btn{
+    background-color: #E13F3F;
+}
+
+.pause-btn{
+    margin: 0px 10px 0px 10px;
+
+}
+
